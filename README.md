@@ -2,7 +2,7 @@
 or A^2, whatever you prefer :)
 
 # 💫 About Me:
-I am a web-developer.<br>Member of MINET, MIS Tech Club<br>I study in class 10<br><br>Right now, I’m working on projects involving:<br>- Web development & UI/UX<br>- Tech experiments<br>- Applications for real-world usage.<br>-And recently, my own Debate AI named Counterpoint: https://counterpoint.onrender.com/<br><br>I love coding in my spare time and work on fun projects alongside to cure boredom.<br>I also participate in tech-events throughout the delhi tech circuit.
+> I am a web-developer.<br>> Member of MINET, MIS Tech Club<br>> I study in class 11<br><br>Right now, I’m working on projects involving:<br>- Web development & UI/UX<br>- Tech experiments<br>- Applications for real-world usage.<br>-And recently, my own Debate AI named Counterpoint: https://counterpoint.onrender.com/<br><br>I love coding in my spare time and work on fun projects alongside to cure boredom.<br>I also participate in tech-events throughout the delhi tech circuit.
 
 
 ## 🌐 Socials:
