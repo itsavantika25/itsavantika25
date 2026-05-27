@@ -3,7 +3,8 @@ or A^2, whatever you prefer :)
 
 # 💫 About Me:
 I am a web-developer.<br> Chief Executive of MINET, MIS Tech Club<br> I study in class 11<br><br>Right now, I’m working on projects involving:<br>- Web development & UI/UX<br>- Tech experiments<br>- Applications for real-world usage.<br>-And recently, my own Debate AI named Counterpoint: https://counterpoint.onrender.com/<br><br>I love coding in my spare time and work on fun projects alongside to cure boredom.<br>I also participate in tech-events throughout the delhi tech circuit.
-
+<br><br>
+Check out my portfolio - [heyitsavantika25.netlify.app](https://heyitsavantika25.netlify.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tech.savvy2505) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsavantika25@gmail.com) 
