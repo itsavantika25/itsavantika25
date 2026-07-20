@@ -8,16 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=505&height=44&lines=I%20am%20a%20Web%20Developer;I%20love%20innovating%20and%20creating!" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 Chief Executive &amp; CryptX Executive of MINET, MIS Tech Club
 
-🔭 &nbsp;I'm currently working on **AI-integrated projects**  
-🌱 &nbsp;I'm currently learning **Next.js and ML**  
-😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I am also a published poet**
+&nbsp;I'm currently working on **AI-integrated projects**  
+&nbsp;I'm currently learning **Next.js and ML**  
+&nbsp;Pronouns: **she/her**  
+&nbsp;Fun fact: **I am also a published poet**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -57,18 +57,17 @@ Chief Executive &amp; CryptX Executive of MINET, MIS Tech Club
   <a href="mailto:itsavantika25@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=itsavantika25&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=itsavantika25&layout=compact&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsavantika25&bg_color=00000000&color=f43f5e&line=f43f5e&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/itsavantika25">itsavantika25</a></i></p>
+
