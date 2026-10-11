@@ -12,7 +12,7 @@
 
 Chief Executive &amp; CryptX Executive of MINET, MIS Tech Club
 
-&nbsp;I'm currently working on **AI-integrated projects**  
+&nbsp;I'm currently working on **Persona - A personality quiz**  
 &nbsp;I'm currently learning **Next.js and ML**  
 &nbsp;Pronouns: **she/her**  
 &nbsp;Fun fact: **I am also a published poet**
